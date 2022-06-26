@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://blog.fadyothman.com/](https://blog.fadyothman.com/)
 
-- 💬 Ask me about **Web Hacking, Fuzzing, Qt Framework, Linux**
+- 💬 Ask me about **Web Hacking, Binary Exploitation, Fuzzing, Qt Framework, Linux**
 
 - 📫 How to reach me **Twitter(@fady_othman)**
 
