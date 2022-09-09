@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fady Othman</h1>
-<h3 align="center">Co-Founder of <a href="https://www.zinad.net/">ZINAD IT</a>, Security Analyst III @ <a href="https://www.hackerone.com/">HackerOne</a> Triage Team</h3>
+<h3 align="center">Co-Founder of <a href="https://www.zinad.net/">ZINAD IT</a>, Senior Product Security Analyst @ <a href="https://www.hackerone.com/">HackerOne</a> Triage Team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadyosman&label=Profile%20views&color=0e75b6&style=flat" alt="fadyosman" /> </p>
 
