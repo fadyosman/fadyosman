@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Hacking, Binary Exploitation, Fuzzing, Qt Framework, Linux**
 
-- 📫 How to reach me **Twitter(@fady_othman)**
+- 📫 How to reach me **Twitter([@fady_othman](https://twitter.com/Fady_Othman))**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fady-othman/](https://www.linkedin.com/in/fady-othman/)
 
